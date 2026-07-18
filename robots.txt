@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://oleksandr.burlachenko.com/sitemap-index.xml

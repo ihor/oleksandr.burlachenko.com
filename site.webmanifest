@@ -1,0 +1,16 @@
+{
+  "name": "Олександр Бурлаченко — онлайн-викладач математики",
+  "short_name": "О. Бурлаченко",
+  "description": "Онлайн-заняття з математики для школярів, абітурієнтів і дорослих.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f8f7f3",
+  "theme_color": "#173f5f",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
